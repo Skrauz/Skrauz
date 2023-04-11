@@ -24,6 +24,11 @@ For me every day is a learning day.
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:krauzowiczs42@gmail.com)
 
 ## 🔶 Other
+![🇵🇱 Polish - Native](https://img.shields.io/badge/🇵🇱_Polish-Native-orange?style=for-the-badge)
+![🇬🇧 English - Certified C1](https://img.shields.io/badge/🇬🇧_English-Certified_C1-orange?style=for-the-badge)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Skrauz&show_icons=true&theme=radical)](https://github.com/Skrauz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skrauz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Skrauz/Skrauz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
