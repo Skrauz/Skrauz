@@ -2,7 +2,7 @@
 
 # I'm Sebastian, nice to meet you 😸
 
-Love for art and technology has led me to front-end development. My goal is to one day become a professional in this field.
+Love for art and technology has led me to front-end development. My goal is to become a professional in this field.
 
 For me every day is a learning day.
 
