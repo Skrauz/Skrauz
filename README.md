@@ -6,7 +6,7 @@ Love for art and technology has led me to front-end development. My goal is to o
 
 For me every day is a learning day.
 
-### 💎 Portfolio: https://skrauz.github.io/
+## 💎 Portfolio: https://skrauz.github.io/
 
 <hr>
 
