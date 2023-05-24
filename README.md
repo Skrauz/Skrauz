@@ -8,8 +8,6 @@ For me every day is a learning day.
 
 ## 💎 Portfolio: https://skrauz.github.io/
 
-<hr>
-
 ## ⚙️ Techstack
 ![HTML5](https://img.shields.io/badge/HTML5-e14b25?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-225faa?style=for-the-badge&logo=css3&logoColor=ffffff)
