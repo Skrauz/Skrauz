@@ -15,8 +15,12 @@ For me every day is a learning day.
 ![CSS3](https://img.shields.io/badge/CSS3-225faa?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=ffffff)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://)
 ![SASS](https://img.shields.io/badge/SASS-bb5e89?style=for-the-badge&logo=sass&logoColor=ffffff)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://)
 ![git](https://img.shields.io/badge/git-ea4d32?style=for-the-badge&logo=git&logoColor=ffffff)
+[![GSAP](https://img.shields.io/badge/GSAP-A2CB02?style=for-the-badge&logo=greensock&logoColor=white)](https://)
 ![bootstrap](https://img.shields.io/badge/bootstrap-6d39b7?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 ## 📧 Contact
