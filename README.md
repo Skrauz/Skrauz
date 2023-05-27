@@ -29,7 +29,7 @@ For me every day is a learning day.
 ![🇵🇱 Polish - Native](https://img.shields.io/badge/🇵🇱_Polish-Native-orange?style=for-the-badge)
 ![🇬🇧 English - Certified C1](https://img.shields.io/badge/🇬🇧_English-Certified_C1-orange?style=for-the-badge)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Skrauz&show_icons=true&theme=radical)](https://github.com/Skrauz/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Skrauz&show_icons=true&theme=radical)](https://github.com/Skrauz/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skrauz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
