@@ -22,7 +22,7 @@ For me every day is a learning day.
 ![bootstrap](https://img.shields.io/badge/bootstrap-6d39b7?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 ## 📧 Contact
-[![Linkedin](https://img.shields.io/badge/Linkedin-007ec6?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sebastian-krauzowicz-880683246/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-007ec6?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/skrauz/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:krauzowiczs42@gmail.com)
 
 ## 🔶 Other
