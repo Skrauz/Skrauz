@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Sebastian, nice to meet you 😸
+# I'm Sebastian, nice to meet you 
 
 Love for art and technology has led me to front-end development. My goal is to become a professional you can always count on.
 
