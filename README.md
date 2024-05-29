@@ -2,9 +2,7 @@
 
 # I'm Sebastian, nice to meet you 
 
-Love for art and technology has led me to front-end development. My goal is to become a professional you can always count on.
-
-For me every day is a learning day.
+Love for art and tech has brought me to front-end development. My goal is to become a professional you can always count on.
 
 ## 💎 Portfolio: https://skrauz.github.io/
 
